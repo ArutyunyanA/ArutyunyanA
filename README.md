@@ -1,4 +1,4 @@
-- 👋 Hi, my name's Artyom and I an amateur - python developer and researcher
+- 👋 Hi, my name's Artyom and I'm an amateur - python developer and researcher
 - 👀 I'm interested in to research programming world and I love python programming language
 - because it's open source and great community support also because you can solve many problems and tasks with it.
 - 🌱 I’m currently learning penetration testing and machine learning
