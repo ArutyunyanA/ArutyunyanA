@@ -31,10 +31,6 @@ I strive to create tools that make technology more accessible and user-friendly 
 
 ---
 
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=transparent)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=transparent)  
-
 
 <!---
 ArutyunyanA/ArutyunyanA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
