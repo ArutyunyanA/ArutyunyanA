@@ -1,4 +1,4 @@
-# 💻 Hi there! Welcome 👋  
+# 💻 Hello, world! And Welcome to my GitHub Account! 👋  
 
 My name is Artem, and I’m a developer with a passion for Python, Rust, web development, and cybersecurity.  
 I strive to create tools that make technology more accessible and user-friendly for everyone.
