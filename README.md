@@ -1,6 +1,6 @@
 # 💻 Hello, world! And Welcome to my GitHub Account! 👋  
 
-My name is Artem, and I’m a developer with a passion for Python, Rust, web development, and cybersecurity.  
+My name is Artem, and I’m a developer and researcher a passion for Python, Rust, web development, and cybersecurity.  
 I strive to create tools that make technology more accessible and user-friendly for everyone.
 
 ## 🚀 Skills and Technologies  
@@ -11,7 +11,8 @@ I strive to create tools that make technology more accessible and user-friendly 
 
 ### Frameworks and Tools  
 - **Django**: Building full-stack web applications, including e-commerce platforms with coupon systems and Stripe integration.  
-- **Celery and Redis**: Handling asynchronous tasks and message queues.  
+- **Celery and Redis**: Handling asynchronous tasks and message queues.
+- **Docker.** 
 - **BeautifulSoup and Selenium**: Browser automation, data scraping, and API integration.  
 
 ---
