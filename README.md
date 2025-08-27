@@ -26,8 +26,7 @@ I strive to create tools that make technology more accessible and user-friendly 
 ---
 
 ## 📫 Get in Touch  
-- ✉️ Email: reneduchamp101@gmail.com  
-- 🔗 Telegram: @ReneDucham  
+- ✉️ Email: reneduchamp101@gmail.com
  
 
 ---
