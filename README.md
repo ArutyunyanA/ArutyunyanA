@@ -6,8 +6,11 @@ I strive to create tools that make technology more accessible and user-friendly 
 ## 🚀 Skills and Technologies  
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,rust,regex,sklearn,selenium,django,postgres,rabbitmq,redis,flask,tensorflow,bash,bootstrap,git,docker,html" />
+  </a>
+</p>
 
 ### Frameworks and Tools  
 - **Django**: Building full-stack web applications, including e-commerce platforms with coupon systems and Stripe integration.  
