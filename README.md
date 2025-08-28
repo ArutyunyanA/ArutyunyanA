@@ -8,14 +8,28 @@ I strive to create tools that make technology more accessible and user-friendly 
 ### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,regex,git,bash,bootstrap,html" />
+    <img src="https://skillicons.dev/icons?i=py,rust,regex,git,bash,html" />
   </a>
 </p>
 
-### Frameworks and Tools  
+### Frameworks 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,selenium,django,postgres,rabbitmq,redis,flask,tensorflow,docker" />
+    <img src="https://skillicons.dev/icons?i=django,sklearn,selenium,bootstrap,flask,tensorflow" />
+  </a>
+</p>  
+
+### DevOps Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,rabbitmq,redis" />
+  </a>
+</p>  
+
+### Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>  
 
