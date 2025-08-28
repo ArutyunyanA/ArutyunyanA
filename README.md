@@ -8,15 +8,16 @@ I strive to create tools that make technology more accessible and user-friendly 
 ### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,regex,sklearn,selenium,django,postgres,rabbitmq,redis,flask,tensorflow,bash,bootstrap,git,docker,html" />
+    <img src="https://skillicons.dev/icons?i=py,rust,regex,git,bash,bootstrap,html" />
   </a>
 </p>
 
 ### Frameworks and Tools  
-- **Django**: Building full-stack web applications, including e-commerce platforms with coupon systems and Stripe integration.  
-- **Celery and Redis**: Handling asynchronous tasks and message queues.
-- **Docker.** 
-- **BeautifulSoup and Selenium**: Browser automation, data scraping, and API integration.  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,selenium,django,postgres,rabbitmq,redis,flask,tensorflow,docker" />
+  </a>
+</p>  
 
 ---
 
