@@ -22,7 +22,7 @@ I strive to create tools that make technology more accessible and user-friendly 
 ### DevOps Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,rabbitmq,celery" />
+    <img src="https://skillicons.dev/icons?i=docker,git,rabbitmq" />
   </a>
 </p>  
 
