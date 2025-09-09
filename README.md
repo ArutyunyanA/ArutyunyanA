@@ -8,7 +8,7 @@ I strive to create tools that make technology more accessible and user-friendly 
 ### Programming Languages  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,regex,bash,html" />
+    <img src="https://skillicons.dev/icons?i=py,rust" />
   </a>
 </p>
 
