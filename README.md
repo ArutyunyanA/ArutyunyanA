@@ -15,7 +15,7 @@ I strive to create tools that make technology more accessible and user-friendly 
 ### Frameworks 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,sklearn,selenium,bootstrap,flask,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=django,rocket,sklearn,selenium,bootstrap,flask,tensorflow" />
   </a>
 </p>  
 
